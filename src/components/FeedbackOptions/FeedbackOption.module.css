@@ -1,0 +1,8 @@
+.option {
+    margin-right: 10px;
+    transition: all 300ms ease;
+}
+
+.option:hover {
+    background: #7b8a9a;
+}
